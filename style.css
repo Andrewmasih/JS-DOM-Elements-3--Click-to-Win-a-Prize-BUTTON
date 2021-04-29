@@ -1,0 +1,16 @@
+body {
+  color: gold;
+  background-color: blue;
+
+}
+
+p {
+  font-size: 33px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+button {
+  position: absolute;
+  
+}
