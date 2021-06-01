@@ -5,7 +5,7 @@ function decrementHP() {
   let currentCount = e1.innerText;
 
   if (currentCount == 0) {
-    alert ("Congradulation!, you have won a a trip to Mars!");
+    alert ("Congratulations!, you have won a a trip to Mars!");
 
   } else {
     /* Decrement current count and set it as the new text in our element */
